@@ -3,9 +3,9 @@
 
 ```javascript
 const Sebastian = {
-	pronouns: "he" | "him",
-	school: "University Autonoma del Caribe",
-	year: "Fourth-year",
+	age: 20,
+	location: "Colombia",
+	university: "Universidad Autónoma del Caribe",
 	program: "Systems Engineer",
 	goal: "Learn new technologies and skills to maximize knowledge.",
 }
