@@ -11,7 +11,7 @@ const Sebastian = {
 }
 ```
 
-- 🔭 I’m currently working on <a href="https://cooweb.co/">Cooweb S.A.S</a>
+- 🔭 I’m currently working at <a href="https://cooweb.co/">Cooweb S.A.S</a>
 - 📫 Contact me through [sm@cooweb.co](mailto:sm@cooweb.co)
 <h2 align="center">💻 Languages and Tools</h2>
 
