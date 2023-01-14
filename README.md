@@ -33,13 +33,6 @@ const Sebastian = {
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
 </div>  
-
-<h2 align="center"> 📊 GitHub Stats</h2>
-
-<div align="center">
-
-
-[![Sebastian-Matute GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sebastian-Matute&show_icons=true&count_private=true&theme=radical)](https://github.com/Sebastian-Matute)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-Matute&theme=radical&layout=compact)](https://github.com/Sebastian-Matute)    
 :-------------------------:|:-------------------------:
   
 </div>  
