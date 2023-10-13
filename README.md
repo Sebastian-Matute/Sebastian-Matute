@@ -3,11 +3,11 @@
 
 ```javascript
 const Sebastian = {
-	age: 20,
+	age: 21,
 	location: "Colombia",
 	university: "Universidad Autónoma del Caribe",
-	program: "Systems Engineer",
-	goal: "Learn new technologies and skills to maximize knowledge.",
+	program: "Systems Engineering",
+	goal: "Get better.",
 }
 ```
 
