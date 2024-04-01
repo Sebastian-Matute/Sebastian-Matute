@@ -3,16 +3,14 @@
 
 ```javascript
 const Sebastian = {
-	age: 21,
+	age: 22,
 	location: "Colombia",
-	university: "Universidad Autónoma del Caribe",
-	program: "Systems Engineering",
+	degree: "Systems Engineering",
 	goal: "Get better.",
 }
 ```
 
-- 🔭 I’m currently working at <a href="https://cooweb.co/">Cooweb S.A.S</a>
-- 📫 Contact me through [sm@cooweb.co](mailto:sm@cooweb.co)
+- 📫 Contact me through [sebastian.mat30@gmail.com](mailto:sebastian.mat30@gmail.com)
 <h2 align="center">💻 Languages and Tools</h2>
 
 <div align="center">
