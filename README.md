@@ -3,10 +3,10 @@
 
 ```javascript
 const Sebastian = {
-	age: 22,
+	age: 23,
 	location: "Colombia",
 	degree: "Systems Engineering",
-	goal: "Get better.",
+	goal: "Improve.",
 }
 ```
 
